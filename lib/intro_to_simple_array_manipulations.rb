@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def using_push(array, element)
   array.push(element)
 end
@@ -45,3 +46,9 @@ end
 def using_delete_at(array, element)
   array.delete_at(2)
 end
+=======
+def using_push(artists)
+  artists.push()
+puts "#{artists}"
+end
+>>>>>>> 4ed1995f01d767aaf60c30eb08d2b265161c8e7a
